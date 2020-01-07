@@ -7,7 +7,6 @@ public class OverloadingTest {
 		printThis(10);
 		printThis(10.5);
 		
-		
 	}
 
 	public static void printThis(double d) {
